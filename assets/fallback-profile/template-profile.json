@@ -1,0 +1,1924 @@
+{
+  "source": "assets/fallback-template.pptx",
+  "fileSizeMB": 0.0,
+  "canvas": {
+    "widthIn": 13.33,
+    "heightIn": 7.5,
+    "ratio": 1.778
+  },
+  "masters": 1,
+  "layouts": [
+    {
+      "master": 0,
+      "name": "Title Slide",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "CENTER_TITLE (3)",
+          "box": {
+            "x": 0.75,
+            "y": 2.33,
+            "w": 8.5,
+            "h": 1.61
+          }
+        },
+        {
+          "idx": 1,
+          "type": "SUBTITLE (4)",
+          "box": {
+            "x": 1.5,
+            "y": 4.25,
+            "w": 7.0,
+            "h": 1.92
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Title and Content",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 9.0,
+            "h": 1.25
+          }
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT (7)",
+          "box": {
+            "x": 0.5,
+            "y": 1.75,
+            "w": 9.0,
+            "h": 4.95
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Section Header",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.79,
+            "y": 4.82,
+            "w": 8.5,
+            "h": 1.49
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY (2)",
+          "box": {
+            "x": 0.79,
+            "y": 3.18,
+            "w": 8.5,
+            "h": 1.64
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Two Content",
+      "placeholderCount": 6,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 9.0,
+            "h": 1.25
+          }
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT (7)",
+          "box": {
+            "x": 0.5,
+            "y": 1.75,
+            "w": 4.42,
+            "h": 4.95
+          }
+        },
+        {
+          "idx": 2,
+          "type": "OBJECT (7)",
+          "box": {
+            "x": 5.08,
+            "y": 1.75,
+            "w": 4.42,
+            "h": 4.95
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Comparison",
+      "placeholderCount": 8,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 9.0,
+            "h": 1.25
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY (2)",
+          "box": {
+            "x": 0.5,
+            "y": 1.68,
+            "w": 4.42,
+            "h": 0.7
+          }
+        },
+        {
+          "idx": 2,
+          "type": "OBJECT (7)",
+          "box": {
+            "x": 0.5,
+            "y": 2.38,
+            "w": 4.42,
+            "h": 4.32
+          }
+        },
+        {
+          "idx": 3,
+          "type": "BODY (2)",
+          "box": {
+            "x": 5.08,
+            "y": 1.68,
+            "w": 4.42,
+            "h": 0.7
+          }
+        },
+        {
+          "idx": 4,
+          "type": "OBJECT (7)",
+          "box": {
+            "x": 5.08,
+            "y": 2.38,
+            "w": 4.42,
+            "h": 4.32
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Title Only",
+      "placeholderCount": 4,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 9.0,
+            "h": 1.25
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Blank",
+      "placeholderCount": 3,
+      "placeholders": [
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Content with Caption",
+      "placeholderCount": 6,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 3.29,
+            "h": 1.27
+          }
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT (7)",
+          "box": {
+            "x": 3.91,
+            "y": 0.3,
+            "w": 5.59,
+            "h": 6.4
+          }
+        },
+        {
+          "idx": 2,
+          "type": "BODY (2)",
+          "box": {
+            "x": 0.5,
+            "y": 1.57,
+            "w": 3.29,
+            "h": 5.13
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Picture with Caption",
+      "placeholderCount": 6,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 1.96,
+            "y": 5.25,
+            "w": 6.0,
+            "h": 0.62
+          }
+        },
+        {
+          "idx": 1,
+          "type": "PICTURE (18)",
+          "box": {
+            "x": 1.96,
+            "y": 0.67,
+            "w": 6.0,
+            "h": 4.5
+          }
+        },
+        {
+          "idx": 2,
+          "type": "BODY (2)",
+          "box": {
+            "x": 1.96,
+            "y": 5.87,
+            "w": 6.0,
+            "h": 0.88
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Title and Vertical Text",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 9.0,
+            "h": 1.25
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY (2)",
+          "box": {
+            "x": 0.5,
+            "y": 1.75,
+            "w": 9.0,
+            "h": 4.95
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "Vertical Title and Text",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 7.25,
+            "y": 0.3,
+            "w": 2.25,
+            "h": 6.4
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY (2)",
+          "box": {
+            "x": 0.5,
+            "y": 0.3,
+            "w": 6.58,
+            "h": 6.4
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.5,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 3.42,
+            "y": 6.95,
+            "w": 3.17,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 7.17,
+            "y": 6.95,
+            "w": 2.33,
+            "h": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "master": 0,
+      "name": "Office Theme",
+      "colors": {
+        "dk1": "windowText",
+        "lt1": "window",
+        "dk2": "1F497D",
+        "lt2": "EEECE1",
+        "accent1": "4F81BD",
+        "accent2": "C0504D",
+        "accent3": "9BBB59",
+        "accent4": "8064A2",
+        "accent5": "4BACC6",
+        "accent6": "F79646",
+        "hlink": "0000FF",
+        "folHlink": "800080"
+      },
+      "fonts": {
+        "majorFont": {
+          "latin": "Calibri",
+          "ea": ""
+        },
+        "minorFont": {
+          "latin": "Calibri",
+          "ea": ""
+        }
+      }
+    }
+  ],
+  "actualFonts": {
+    "微软雅黑": 49
+  },
+  "actualColors": [
+    {
+      "color": "6B7280",
+      "count": 51
+    },
+    {
+      "color": "1F2937",
+      "count": 32
+    },
+    {
+      "color": "2E7DD1",
+      "count": 16
+    },
+    {
+      "color": "1D4E89",
+      "count": 15
+    },
+    {
+      "color": "DDE3EA",
+      "count": 8
+    },
+    {
+      "color": "E8EEF6",
+      "count": 2
+    },
+    {
+      "color": "F3F6FA",
+      "count": 1
+    }
+  ],
+  "actualFontSizes": {
+    "10": 12,
+    "12": 1,
+    "14": 6,
+    "16": 4,
+    "18": 9,
+    "20": 1,
+    "24": 4,
+    "26": 3,
+    "28": 5,
+    "36": 1,
+    "40": 1,
+    "48": 1,
+    "150": 1
+  },
+  "media": [
+    {
+      "name": "thumbnail.jpeg",
+      "bytes": 4067,
+      "MB": 0.0,
+      "contentType": "image/jpeg"
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "role": "cover",
+      "layout": "Blank",
+      "shapeCount": 7,
+      "picCount": 0,
+      "totalChars": 70,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 9,
+          "text": "XX大学·XX学院",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "微软雅黑",
+          "color": "1D4E89",
+          "box": {
+            "x": 0.95,
+            "y": 0.85,
+            "w": 9.0,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "TextBox 3",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（论文题目）",
+          "runs": 1,
+          "fontSize": 40,
+          "fontSizeAll": {
+            "40": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.95,
+            "y": 2.0,
+            "w": 10.9,
+            "h": 0.7
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "TextBox 4",
+          "group": null,
+          "chars": 16,
+          "text": "添加副标题（研究方向/课程名称）",
+          "runs": 1,
+          "fontSize": 20,
+          "fontSizeAll": {
+            "20": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.95,
+            "y": 3.3,
+            "w": 10.9,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "TextBox 6",
+          "group": null,
+          "chars": 18,
+          "text": "汇报人：XXX学号：XXXXXXXX",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.95,
+            "y": 5.65,
+            "w": 10.0,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "TextBox 7",
+          "group": null,
+          "chars": 15,
+          "text": "指导教师：XXX2026年6月",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.95,
+            "y": 6.15,
+            "w": 10.0,
+            "h": 0.4
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 2,
+      "role": "toc",
+      "layout": "Blank",
+      "shapeCount": 17,
+      "picCount": 0,
+      "totalChars": 61,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 2,
+          "text": "目录",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.85,
+            "y": 0.52,
+            "w": 11.2,
+            "h": 0.6
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "TextBox 4",
+          "group": null,
+          "chars": 2,
+          "text": "01",
+          "runs": 1,
+          "fontSize": 26,
+          "fontSizeAll": {
+            "26": 1
+          },
+          "font": "微软雅黑",
+          "color": "2E7DD1",
+          "box": {
+            "x": 0.9,
+            "y": 1.85,
+            "w": 0.9,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 24,
+          "fontSizeAll": {
+            "24": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 1.9,
+            "y": 1.8,
+            "w": 9.6,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "TextBox 6",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节描述",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 1.9,
+            "y": 2.35,
+            "w": 9.6,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 9,
+          "name": "TextBox 8",
+          "group": null,
+          "chars": 2,
+          "text": "02",
+          "runs": 1,
+          "fontSize": 26,
+          "fontSizeAll": {
+            "26": 1
+          },
+          "font": "微软雅黑",
+          "color": "2E7DD1",
+          "box": {
+            "x": 0.9,
+            "y": 3.2,
+            "w": 0.9,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "TextBox 9",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 24,
+          "fontSizeAll": {
+            "24": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 1.9,
+            "y": 3.15,
+            "w": 9.6,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 11,
+          "name": "TextBox 10",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节描述",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 1.9,
+            "y": 3.7,
+            "w": 9.6,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "TextBox 12",
+          "group": null,
+          "chars": 2,
+          "text": "03",
+          "runs": 1,
+          "fontSize": 26,
+          "fontSizeAll": {
+            "26": 1
+          },
+          "font": "微软雅黑",
+          "color": "2E7DD1",
+          "box": {
+            "x": 0.9,
+            "y": 4.55,
+            "w": 0.9,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 14,
+          "name": "TextBox 13",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 24,
+          "fontSizeAll": {
+            "24": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 1.9,
+            "y": 4.5,
+            "w": 9.6,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 15,
+          "name": "TextBox 14",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节描述",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 1.9,
+            "y": 5.05,
+            "w": 9.6,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 17,
+          "name": "TextBox 16",
+          "group": null,
+          "chars": 16,
+          "text": "XX大学·XX学院|课程论文汇报",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 6.98,
+            "w": 7.0,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 18,
+          "name": "TextBox 17",
+          "group": null,
+          "chars": 1,
+          "text": "2",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 11.7,
+            "y": 6.98,
+            "w": 0.85,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 3,
+      "role": "section",
+      "layout": "Blank",
+      "shapeCount": 5,
+      "picCount": 0,
+      "totalChars": 29,
+      "texts": [
+        {
+          "shapeId": 2,
+          "name": "TextBox 1",
+          "group": null,
+          "chars": 2,
+          "text": "01",
+          "runs": 1,
+          "fontSize": 150,
+          "fontSizeAll": {
+            "150": 1
+          },
+          "font": "微软雅黑",
+          "color": "E8EEF6",
+          "box": {
+            "x": 0.55,
+            "y": 0.9,
+            "w": 5.0,
+            "h": 2.2
+          }
+        },
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 4,
+          "text": "第一部分",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "微软雅黑",
+          "color": "2E7DD1",
+          "box": {
+            "x": 0.9,
+            "y": 3.15,
+            "w": 6.0,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "TextBox 3",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 36,
+          "fontSizeAll": {
+            "36": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.9,
+            "y": 3.65,
+            "w": 11.4,
+            "h": 0.7
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "TextBox 4",
+          "group": null,
+          "chars": 16,
+          "text": "XX大学·XX学院|课程论文汇报",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 6.98,
+            "w": 7.0,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 1,
+          "text": "3",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 11.7,
+            "y": 6.98,
+            "w": 0.85,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 4,
+      "role": "content",
+      "layout": "Blank",
+      "shapeCount": 14,
+      "picCount": 0,
+      "totalChars": 182,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（三栏排版）",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.85,
+            "y": 0.52,
+            "w": 11.2,
+            "h": 0.6
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 1
+          },
+          "font": "微软雅黑",
+          "color": "1D4E89",
+          "box": {
+            "x": 1.05,
+            "y": 1.72,
+            "w": 3.2,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "TextBox 6",
+          "group": null,
+          "chars": 46,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容。添加正文内容添加正文内容，添加正文内容。",
+          "runs": 2,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 2
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 2.35,
+            "w": 3.55,
+            "h": 3.6
+          }
+        },
+        {
+          "shapeId": 9,
+          "name": "TextBox 8",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 1
+          },
+          "font": "微软雅黑",
+          "color": "1D4E89",
+          "box": {
+            "x": 4.75,
+            "y": 1.72,
+            "w": 3.2,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "TextBox 9",
+          "group": null,
+          "chars": 46,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容。添加正文内容添加正文内容，添加正文内容。",
+          "runs": 2,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 2
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 4.55,
+            "y": 2.35,
+            "w": 3.55,
+            "h": 3.6
+          }
+        },
+        {
+          "shapeId": 12,
+          "name": "TextBox 11",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 1
+          },
+          "font": "微软雅黑",
+          "color": "1D4E89",
+          "box": {
+            "x": 8.45,
+            "y": 1.72,
+            "w": 3.2,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "TextBox 12",
+          "group": null,
+          "chars": 46,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容。添加正文内容添加正文内容，添加正文内容。",
+          "runs": 2,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 2
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 8.25,
+            "y": 2.35,
+            "w": 3.55,
+            "h": 3.6
+          }
+        },
+        {
+          "shapeId": 14,
+          "name": "TextBox 13",
+          "group": null,
+          "chars": 16,
+          "text": "XX大学·XX学院|课程论文汇报",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 6.98,
+            "w": 7.0,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 15,
+          "name": "TextBox 14",
+          "group": null,
+          "chars": 1,
+          "text": "4",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 11.7,
+            "y": 6.98,
+            "w": 0.85,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 5,
+      "role": "content",
+      "layout": "Blank",
+      "shapeCount": 13,
+      "picCount": 0,
+      "totalChars": 93,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 15,
+          "text": "添加标题文字（图文/左文右图）",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.85,
+            "y": 0.52,
+            "w": 11.2,
+            "h": 0.6
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 15,
+          "text": "添加正文要点一：一句话说明结论",
+          "runs": 1,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 1.2,
+            "y": 1.85,
+            "w": 5.5,
+            "h": 0.9
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "TextBox 7",
+          "group": null,
+          "chars": 15,
+          "text": "添加正文要点二：给出证据或数据",
+          "runs": 1,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 1.2,
+            "y": 2.9,
+            "w": 5.5,
+            "h": 0.9
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "TextBox 9",
+          "group": null,
+          "chars": 15,
+          "text": "添加正文要点三：说明边界或含义",
+          "runs": 1,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 1.2,
+            "y": 3.95,
+            "w": 5.5,
+            "h": 0.9
+          }
+        },
+        {
+          "shapeId": 12,
+          "name": "TextBox 11",
+          "group": null,
+          "chars": 16,
+          "text": "图表占位：替换为你的图表/示意图",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 7.1,
+            "y": 3.75,
+            "w": 5.15,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "TextBox 12",
+          "group": null,
+          "chars": 16,
+          "text": "XX大学·XX学院|课程论文汇报",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 6.98,
+            "w": 7.0,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 14,
+          "name": "TextBox 13",
+          "group": null,
+          "chars": 1,
+          "text": "5",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 11.7,
+            "y": 6.98,
+            "w": 0.85,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 6,
+      "role": "content",
+      "layout": "Blank",
+      "shapeCount": 6,
+      "picCount": 0,
+      "totalChars": 29,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（表格排版）",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.85,
+            "y": 0.52,
+            "w": 11.2,
+            "h": 0.6
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 16,
+          "text": "XX大学·XX学院|课程论文汇报",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 6.98,
+            "w": 7.0,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "TextBox 6",
+          "group": null,
+          "chars": 1,
+          "text": "6",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 11.7,
+            "y": 6.98,
+            "w": 0.85,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 7,
+      "role": "content",
+      "layout": "Blank",
+      "shapeCount": 7,
+      "picCount": 0,
+      "totalChars": 54,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（图表排版）",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.85,
+            "y": 0.52,
+            "w": 11.2,
+            "h": 0.6
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 25,
+          "text": "数据来源：添加来源；注：示例数据，请替换为真实数据",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.9,
+            "y": 6.05,
+            "w": 11.4,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "TextBox 6",
+          "group": null,
+          "chars": 16,
+          "text": "XX大学·XX学院|课程论文汇报",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.85,
+            "y": 6.98,
+            "w": 7.0,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "TextBox 7",
+          "group": null,
+          "chars": 1,
+          "text": "7",
+          "runs": 1,
+          "fontSize": 10,
+          "fontSizeAll": {
+            "10": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 11.7,
+            "y": 6.98,
+            "w": 0.85,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    },
+    {
+      "index": 8,
+      "role": "end",
+      "layout": "Blank",
+      "shapeCount": 6,
+      "picCount": 0,
+      "totalChars": 41,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "TextBox 2",
+          "group": null,
+          "chars": 2,
+          "text": "谢谢",
+          "runs": 1,
+          "fontSize": 48,
+          "fontSizeAll": {
+            "48": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.95,
+            "y": 2.35,
+            "w": 9.0,
+            "h": 0.9
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "TextBox 3",
+          "group": null,
+          "chars": 6,
+          "text": "敬请批评指正",
+          "runs": 1,
+          "fontSize": 24,
+          "fontSizeAll": {
+            "24": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.95,
+            "y": 3.45,
+            "w": 9.0,
+            "h": 0.5
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "TextBox 5",
+          "group": null,
+          "chars": 18,
+          "text": "汇报人：XXX学号：XXXXXXXX",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "微软雅黑",
+          "color": "1F2937",
+          "box": {
+            "x": 0.95,
+            "y": 5.65,
+            "w": 10.0,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "TextBox 6",
+          "group": null,
+          "chars": 15,
+          "text": "指导教师：XXX2026年6月",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "微软雅黑",
+          "color": "6B7280",
+          "box": {
+            "x": 0.95,
+            "y": 6.15,
+            "w": 10.0,
+            "h": 0.4
+          }
+        }
+      ],
+      "pics": [],
+      "lines": []
+    }
+  ],
+  "pollution": [
+    {
+      "slide": 2,
+      "shapeId": 6,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 2,
+      "shapeId": 7,
+      "kind": "模板示例文字",
+      "text": "添加章节描述"
+    },
+    {
+      "slide": 2,
+      "shapeId": 10,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 2,
+      "shapeId": 11,
+      "kind": "模板示例文字",
+      "text": "添加章节描述"
+    },
+    {
+      "slide": 2,
+      "shapeId": 14,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 2,
+      "shapeId": 15,
+      "kind": "模板示例文字",
+      "text": "添加章节描述"
+    },
+    {
+      "slide": 3,
+      "shapeId": 4,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 4,
+      "shapeId": 6,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 4,
+      "shapeId": 7,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容。添加正文内容添加正文内容，添"
+    },
+    {
+      "slide": 4,
+      "shapeId": 9,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 4,
+      "shapeId": 10,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容。添加正文内容添加正文内容，添"
+    },
+    {
+      "slide": 4,
+      "shapeId": 12,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 4,
+      "shapeId": 13,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容。添加正文内容添加正文内容，添"
+    }
+  ],
+  "roleCoverage": {
+    "cover": true,
+    "toc": true,
+    "section": true,
+    "content": true,
+    "content-image": false,
+    "end": true
+  },
+  "missingRoles": [
+    "content-image"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "说明": "字体替换表。学校模板常用字体在学生的 Windows 机器上缺失时会被静默回退（宋体可能变成黑体），必须先映射到目标平台一定存在的字体。windows/macos 是给最终交付用的替换目标；render_fallbacks 是渲染质检时传给 LibreOffice Kit 的映射（CLI: --font-fallbacks）。",
+  "策略": [
+    "交付前先确认目标机器是 Windows 还是 macOS（多数高校答辩教室是 Windows + Office）",
+    "优先把全篇收敛到 1 个标题字体 + 1 个正文字体，不要出现 5 种以上字体",
+    "Windows 安全字体：微软雅黑、宋体、黑体、楷体、Arial",
+    "macOS 安全字体：PingFang SC、Songti SC、STHeiti、Kaiti SC、Arial Unicode MS",
+    "衬线模板（如思源宋体）在 Windows 回退到『宋体』，不要回退到黑体，否则风格全丢"
+  ],
+  "fonts": {
+    "微软雅黑": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false, "note": "最常见的正文/标题字体" },
+    "微软雅黑 Light": { "windows": "微软雅黑 Light", "macos": "PingFang SC", "serif": false },
+    "等线": { "windows": "等线", "macos": "PingFang SC", "serif": false, "note": "Office 默认中文字体，macOS 普遍缺失" },
+    "宋体": { "windows": "宋体", "macos": "Songti SC", "serif": true },
+    "黑体": { "windows": "黑体", "macos": "STHeiti", "serif": false },
+    "楷体": { "windows": "楷体", "macos": "Kaiti SC", "serif": true },
+    "方正小标宋简体": { "windows": "宋体", "macos": "Songti SC", "serif": true, "note": "常见于公文/学校模板，几乎不可能装在学生机上" },
+    "方正黑体简体": { "windows": "黑体", "macos": "STHeiti", "serif": false },
+    "思源宋体 CN": { "windows": "宋体", "macos": "Songti SC", "serif": true, "note": "优雅型衬线模板常用；缺失会静默变黑体" },
+    "思源宋体 CN Heavy": { "windows": "宋体", "macos": "Songti SC", "serif": true },
+    "思源宋体 CN Medium": { "windows": "宋体", "macos": "Songti SC", "serif": true },
+    "思源黑体 CN": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "阿里巴巴普惠体": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "Alibaba PuHuiTi": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "阿里巴巴普惠体 Heavy": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "MiSans": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "MiSans Medium": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "OPPO Sans": { "windows": "微软雅黑", "macos": "PingFang SC", "serif": false },
+    "Poppins": { "windows": "Arial", "macos": "Arial", "serif": false, "note": "常见英文大标题字体" },
+    "Arial": { "windows": "Arial", "macos": "Arial", "serif": false },
+    "Calibri": { "windows": "Calibri", "macos": "Arial", "serif": false }
+  },
+  "render_fallbacks": [
+    ["微软雅黑", "PingFang SC"],
+    ["微软雅黑 Light", "PingFang SC"],
+    ["等线", "PingFang SC"],
+    ["思源宋体 CN", "Songti SC"],
+    ["思源宋体 CN Heavy", "Songti SC"],
+    ["思源宋体 CN Medium", "Songti SC"],
+    ["思源黑体 CN", "PingFang SC"],
+    ["阿里巴巴普惠体", "PingFang SC"],
+    ["Alibaba PuHuiTi", "PingFang SC"],
+    ["MiSans", "PingFang SC"],
+    ["OPPO Sans", "PingFang SC"],
+    ["方正小标宋简体", "Songti SC"],
+    ["黑体", "STHeiti"],
+    ["楷体", "Kaiti SC"],
+    ["Poppins", "Arial"]
+  ]
+}

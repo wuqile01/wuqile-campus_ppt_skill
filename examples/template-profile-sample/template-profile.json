@@ -1,0 +1,3571 @@
+{
+  "source": "templates/【西财蓝1】演示文稿模板.pptx",
+  "fileSizeMB": 99.3,
+  "canvas": {
+    "widthIn": 13.33,
+    "heightIn": 7.5,
+    "ratio": 1.778
+  },
+  "masters": 3,
+  "layouts": [
+    {
+      "master": 0,
+      "name": "标题幻灯片",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "CENTER_TITLE (3)",
+          "box": {
+            "x": 1.67,
+            "y": 1.23,
+            "w": 10.0,
+            "h": 2.61
+          }
+        },
+        {
+          "idx": 1,
+          "type": "SUBTITLE (4)",
+          "box": {
+            "x": 1.67,
+            "y": 3.94,
+            "w": 10.0,
+            "h": 1.81
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "空白",
+      "placeholderCount": 3,
+      "placeholders": [
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 0,
+      "name": "自定义版式",
+      "placeholderCount": 0,
+      "placeholders": []
+    },
+    {
+      "master": 1,
+      "name": "标题幻灯片",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "CENTER_TITLE (3)",
+          "box": {
+            "x": 1.67,
+            "y": 1.23,
+            "w": 10.0,
+            "h": 2.61
+          }
+        },
+        {
+          "idx": 1,
+          "type": "SUBTITLE (4)",
+          "box": {
+            "x": 1.67,
+            "y": 3.94,
+            "w": 10.0,
+            "h": 1.81
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 1,
+      "name": "空白",
+      "placeholderCount": 3,
+      "placeholders": [
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 1,
+      "name": "自定义版式",
+      "placeholderCount": 0,
+      "placeholders": []
+    },
+    {
+      "master": 1,
+      "name": "仅标题",
+      "placeholderCount": 4,
+      "placeholders": [
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 0,
+          "type": "TITLE (1)",
+          "box": {
+            "x": 0.92,
+            "y": 0.4,
+            "w": 11.5,
+            "h": 1.45
+          }
+        }
+      ]
+    },
+    {
+      "master": 2,
+      "name": "标题幻灯片",
+      "placeholderCount": 5,
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "CENTER_TITLE (3)",
+          "box": {
+            "x": 1.67,
+            "y": 1.23,
+            "w": 10.0,
+            "h": 2.61
+          }
+        },
+        {
+          "idx": 1,
+          "type": "SUBTITLE (4)",
+          "box": {
+            "x": 1.67,
+            "y": 3.94,
+            "w": 10.0,
+            "h": 1.81
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 2,
+      "name": "空白",
+      "placeholderCount": 3,
+      "placeholders": [
+        {
+          "idx": 10,
+          "type": "DATE (16)",
+          "box": {
+            "x": 0.92,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER (15)",
+          "box": {
+            "x": 4.42,
+            "y": 6.95,
+            "w": 4.5,
+            "h": 0.4
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER (13)",
+          "box": {
+            "x": 9.42,
+            "y": 6.95,
+            "w": 3.0,
+            "h": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "master": 2,
+      "name": "自定义版式",
+      "placeholderCount": 0,
+      "placeholders": []
+    }
+  ],
+  "themes": [
+    {
+      "master": 0,
+      "name": "Office 主题​​",
+      "colors": {
+        "dk1": "00144C",
+        "lt1": "window",
+        "dk2": "4D88D7",
+        "lt2": "E7E6E6",
+        "accent1": "00256E",
+        "accent2": "0A34BA",
+        "accent3": "0064D2",
+        "accent4": "1182FF",
+        "accent5": "FFCD69",
+        "accent6": "8996A8",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "fonts": {
+        "majorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑"
+        },
+        "minorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑"
+        }
+      }
+    },
+    {
+      "master": 1,
+      "name": "1_Office 主题​​",
+      "colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "052741",
+        "lt2": "F3F9FE",
+        "accent1": "0E6EB8",
+        "accent2": "2B82C4",
+        "accent3": "4896D1",
+        "accent4": "65AADE",
+        "accent5": "82BEEB",
+        "accent6": "A0D2F8",
+        "hlink": "0026E5",
+        "folHlink": "7E1FAD"
+      },
+      "fonts": {
+        "majorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑"
+        },
+        "minorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑"
+        }
+      }
+    },
+    {
+      "master": 2,
+      "name": "2_Office 主题​​",
+      "colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "052741",
+        "lt2": "F3F9FE",
+        "accent1": "0E6EB8",
+        "accent2": "2B82C4",
+        "accent3": "4896D1",
+        "accent4": "65AADE",
+        "accent5": "82BEEB",
+        "accent6": "A0D2F8",
+        "hlink": "0026E5",
+        "folHlink": "7E1FAD"
+      },
+      "fonts": {
+        "majorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑"
+        },
+        "minorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑"
+        }
+      }
+    }
+  ],
+  "actualFonts": {
+    "微软雅黑": 28,
+    "+mj-lt": 21,
+    "+mn-ea": 17,
+    "Arial": 6
+  },
+  "actualColors": [
+    {
+      "color": "376FFF",
+      "count": 36
+    },
+    {
+      "color": "FFFFFF",
+      "count": 29
+    },
+    {
+      "color": "637490",
+      "count": 21
+    },
+    {
+      "color": "bg1",
+      "count": 20
+    },
+    {
+      "color": "white",
+      "count": 16
+    },
+    {
+      "color": "1271BA",
+      "count": 15
+    }
+  ],
+  "actualFontSizes": {
+    "12": 21,
+    "14": 12,
+    "16": 10,
+    "18": 4,
+    "20": 3,
+    "28": 6,
+    "40": 3,
+    "44": 1,
+    "48": 4,
+    "60": 3,
+    "188": 1,
+    "287": 3
+  },
+  "media": [
+    {
+      "name": "image3.jpeg",
+      "bytes": 32476794,
+      "MB": 30.97,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image7.jpeg",
+      "bytes": 26880367,
+      "MB": 25.64,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image5.jpeg",
+      "bytes": 18255889,
+      "MB": 17.41,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image11.jpeg",
+      "bytes": 11942013,
+      "MB": 11.39,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image4.jpeg",
+      "bytes": 5029228,
+      "MB": 4.8,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image10.jpeg",
+      "bytes": 3731444,
+      "MB": 3.56,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image14.png",
+      "bytes": 2151037,
+      "MB": 2.05,
+      "contentType": "image/png"
+    },
+    {
+      "name": "image1.jpeg",
+      "bytes": 1509460,
+      "MB": 1.44,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image13.jpeg",
+      "bytes": 849724,
+      "MB": 0.81,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image12.png",
+      "bytes": 656424,
+      "MB": 0.63,
+      "contentType": "image/png"
+    },
+    {
+      "name": "image8.png",
+      "bytes": 120685,
+      "MB": 0.12,
+      "contentType": "image/png"
+    },
+    {
+      "name": "image2.png",
+      "bytes": 112078,
+      "MB": 0.11,
+      "contentType": "image/png"
+    },
+    {
+      "name": "image6.jpeg",
+      "bytes": 94635,
+      "MB": 0.09,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "image9.jpeg",
+      "bytes": 85724,
+      "MB": 0.08,
+      "contentType": "image/jpeg"
+    },
+    {
+      "name": "thumbnail.jpeg",
+      "bytes": 41726,
+      "MB": 0.04,
+      "contentType": "image/jpeg"
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "role": "cover",
+      "layout": "空白",
+      "shapeCount": 11,
+      "picCount": 3,
+      "totalChars": 48,
+      "texts": [
+        {
+          "shapeId": 32,
+          "name": "文本框 31",
+          "group": null,
+          "chars": 6,
+          "text": "西南财经大学",
+          "runs": 1,
+          "fontSize": 48,
+          "fontSizeAll": {
+            "48": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.66,
+            "y": 2.03,
+            "w": 4.2,
+            "h": 0.91
+          }
+        },
+        {
+          "shapeId": 33,
+          "name": "文本框 32",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题描述添加标题描述",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.68,
+            "y": 3.83,
+            "w": 4.48,
+            "h": 0.37
+          }
+        },
+        {
+          "shapeId": 34,
+          "name": "文本框 33",
+          "group": null,
+          "chars": 6,
+          "text": "演示文稿模板",
+          "runs": 1,
+          "fontSize": 48,
+          "fontSizeAll": {
+            "48": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.66,
+            "y": 2.92,
+            "w": 4.2,
+            "h": 0.91
+          }
+        },
+        {
+          "shapeId": 2,
+          "name": "文本框 1",
+          "group": null,
+          "chars": 7,
+          "text": "汇报人：xxx",
+          "runs": 2,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 2
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.66,
+            "y": 5.61,
+            "w": 1.57,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 3,
+          "name": "文本框 2",
+          "group": null,
+          "chars": 12,
+          "text": "日期：xx年xx月xx日",
+          "runs": 7,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 7
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 2.54,
+            "y": 5.61,
+            "w": 2.45,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "文本框 7",
+          "group": null,
+          "chars": 5,
+          "text": "20XX年",
+          "runs": 2,
+          "fontSize": 44,
+          "fontSizeAll": {
+            "44": 2
+          },
+          "font": "+mj-lt",
+          "color": "accent5",
+          "box": {
+            "x": 0.66,
+            "y": 1.35,
+            "w": 6.67,
+            "h": 0.84
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 7,
+          "name": "图片 6",
+          "box": {
+            "x": 0.23,
+            "y": 0.0,
+            "w": 5.9,
+            "h": 7.5
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "图片 4",
+          "box": {
+            "x": 2.08,
+            "y": 0.0,
+            "w": 11.25,
+            "h": 7.5
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "图片 5",
+          "box": {
+            "x": 10.07,
+            "y": -0.0,
+            "w": 3.27,
+            "h": 1.2
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 4,
+          "name": "直接连接符 3",
+          "box": {
+            "x": 2.44,
+            "y": 5.7,
+            "w": 0.0,
+            "h": 0.22
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "role": "section",
+      "layout": "空白",
+      "shapeCount": 8,
+      "picCount": 1,
+      "totalChars": 33,
+      "texts": [
+        {
+          "shapeId": 6,
+          "name": "文本框 5",
+          "group": null,
+          "chars": 2,
+          "text": "01",
+          "runs": 1,
+          "fontSize": 287,
+          "fontSizeAll": {
+            "287": 1
+          },
+          "font": "Arial",
+          "color": null,
+          "box": {
+            "x": 3.52,
+            "y": 0.41,
+            "w": 6.3,
+            "h": 4.93
+          }
+        },
+        {
+          "shapeId": 16,
+          "name": "文本框 15",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 40,
+          "fontSizeAll": {
+            "40": 1
+          },
+          "font": "Arial",
+          "color": "accent5",
+          "box": {
+            "x": 4.15,
+            "y": 5.3,
+            "w": 5.03,
+            "h": 0.77
+          }
+        },
+        {
+          "shapeId": 3,
+          "name": "文本框 2",
+          "group": null,
+          "chars": 1,
+          "text": "1",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.97,
+            "y": 6.67,
+            "w": 0.36,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "文本框 4",
+          "group": null,
+          "chars": 24,
+          "text": "添加章节描述添加章节描述添加章节描述添加章节描述",
+          "runs": 2,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "+mj-lt",
+          "color": "637490",
+          "box": {
+            "x": 3.63,
+            "y": 6.67,
+            "w": 6.34,
+            "h": 0.68
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 7,
+          "name": "图片 6",
+          "box": {
+            "x": 0.0,
+            "y": -0.0,
+            "w": 13.33,
+            "h": 5.7
+          }
+        }
+      ],
+      "lines": []
+    },
+    {
+      "index": 3,
+      "role": "section",
+      "layout": "空白",
+      "shapeCount": 7,
+      "picCount": 1,
+      "totalChars": 32,
+      "texts": [
+        {
+          "shapeId": 6,
+          "name": "文本框 5",
+          "group": null,
+          "chars": 2,
+          "text": "02",
+          "runs": 1,
+          "fontSize": 287,
+          "fontSizeAll": {
+            "287": 1
+          },
+          "font": "Arial",
+          "color": null,
+          "box": {
+            "x": 3.52,
+            "y": 0.41,
+            "w": 6.3,
+            "h": 4.93
+          }
+        },
+        {
+          "shapeId": 16,
+          "name": "文本框 15",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 40,
+          "fontSizeAll": {
+            "40": 1
+          },
+          "font": "Arial",
+          "color": "accent5",
+          "box": {
+            "x": 4.15,
+            "y": 5.3,
+            "w": 5.03,
+            "h": 0.77
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "文本框 4",
+          "group": null,
+          "chars": 24,
+          "text": "添加章节描述添加章节描述添加章节描述添加章节描述",
+          "runs": 2,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "+mj-lt",
+          "color": "637490",
+          "box": {
+            "x": 3.63,
+            "y": 6.67,
+            "w": 6.34,
+            "h": 0.68
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 7,
+          "name": "图片 6",
+          "box": {
+            "x": 0.0,
+            "y": -0.0,
+            "w": 13.33,
+            "h": 5.7
+          }
+        }
+      ],
+      "lines": []
+    },
+    {
+      "index": 4,
+      "role": "section",
+      "layout": "空白",
+      "shapeCount": 7,
+      "picCount": 1,
+      "totalChars": 32,
+      "texts": [
+        {
+          "shapeId": 6,
+          "name": "文本框 5",
+          "group": null,
+          "chars": 2,
+          "text": "03",
+          "runs": 1,
+          "fontSize": 287,
+          "fontSizeAll": {
+            "287": 1
+          },
+          "font": "Arial",
+          "color": null,
+          "box": {
+            "x": 3.52,
+            "y": 0.41,
+            "w": 6.3,
+            "h": 4.93
+          }
+        },
+        {
+          "shapeId": 16,
+          "name": "文本框 15",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 40,
+          "fontSizeAll": {
+            "40": 1
+          },
+          "font": "Arial",
+          "color": "accent5",
+          "box": {
+            "x": 4.15,
+            "y": 5.3,
+            "w": 5.03,
+            "h": 0.77
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "文本框 4",
+          "group": null,
+          "chars": 24,
+          "text": "添加章节描述添加章节描述添加章节描述添加章节描述",
+          "runs": 2,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "+mj-lt",
+          "color": "637490",
+          "box": {
+            "x": 3.63,
+            "y": 6.67,
+            "w": 6.34,
+            "h": 0.68
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 7,
+          "name": "图片 6",
+          "box": {
+            "x": 0.0,
+            "y": -0.0,
+            "w": 13.33,
+            "h": 5.7
+          }
+        }
+      ],
+      "lines": []
+    },
+    {
+      "index": 5,
+      "role": "toc",
+      "layout": "空白",
+      "shapeCount": 14,
+      "picCount": 3,
+      "totalChars": 44,
+      "texts": [
+        {
+          "shapeId": 16,
+          "name": "文本框 15",
+          "group": null,
+          "chars": 8,
+          "text": "Contents",
+          "runs": 2,
+          "fontSize": 188,
+          "fontSizeAll": {
+            "188": 2
+          },
+          "font": "+mj-lt",
+          "color": null,
+          "box": {
+            "x": -0.71,
+            "y": 0.57,
+            "w": 15.03,
+            "h": 3.05
+          }
+        },
+        {
+          "shapeId": 20,
+          "name": "文本框 19",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节描述",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 5.37,
+            "y": 6.24,
+            "w": 1.53,
+            "h": 0.37
+          }
+        },
+        {
+          "shapeId": 25,
+          "name": "文本框 24",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节描述",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 9.66,
+            "y": 6.24,
+            "w": 1.53,
+            "h": 0.37
+          }
+        },
+        {
+          "shapeId": 28,
+          "name": "文本框 27",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 1.4,
+            "y": 5.56,
+            "w": 2.53,
+            "h": 0.57
+          }
+        },
+        {
+          "shapeId": 29,
+          "name": "文本框 28",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节描述",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 1.45,
+            "y": 6.24,
+            "w": 1.53,
+            "h": 0.37
+          }
+        },
+        {
+          "shapeId": 2,
+          "name": "文本框 1",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 5.37,
+            "y": 5.56,
+            "w": 2.53,
+            "h": 0.57
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "文本框 3",
+          "group": null,
+          "chars": 6,
+          "text": "添加章节标题",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 9.66,
+            "y": 5.56,
+            "w": 2.53,
+            "h": 0.57
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 6,
+          "name": "图片 5",
+          "box": {
+            "x": -0.0,
+            "y": -0.16,
+            "w": 13.33,
+            "h": 7.66
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "图片 4",
+          "box": {
+            "x": -0.0,
+            "y": -0.16,
+            "w": 13.33,
+            "h": 6.97
+          }
+        },
+        {
+          "shapeId": 3,
+          "name": "图片 2",
+          "box": {
+            "x": -0.0,
+            "y": -0.16,
+            "w": 13.36,
+            "h": 6.29
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 17,
+          "name": "!!!PPT进化论7",
+          "box": {
+            "x": 1.33,
+            "y": 5.67,
+            "w": 0.0,
+            "h": 0.85
+          }
+        },
+        {
+          "shapeId": 21,
+          "name": "!!!PPT进化论8",
+          "box": {
+            "x": 5.26,
+            "y": 5.67,
+            "w": 0.0,
+            "h": 0.85
+          }
+        },
+        {
+          "shapeId": 26,
+          "name": "!!!PPT进化论9",
+          "box": {
+            "x": 9.54,
+            "y": 5.67,
+            "w": 0.0,
+            "h": 0.85
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "role": "content-image",
+      "layout": "空白",
+      "shapeCount": 11,
+      "picCount": 2,
+      "totalChars": 160,
+      "texts": [
+        {
+          "shapeId": 2,
+          "name": "文本框 1",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（图文排版）",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "1271BA",
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          }
+        },
+        {
+          "shapeId": 12,
+          "name": "文本框 11",
+          "group": "组合 17",
+          "chars": 45,
+          "text": "添加正文内容添加正文内容。添加正文内容添加正文内容添加正文内容。添加正文内容添加正文内容。",
+          "runs": 2,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": null,
+          "box": {
+            "x": 9.34,
+            "y": 6.31,
+            "w": 3.37,
+            "h": 0.83
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "文本框 12",
+          "group": "组合 17",
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": null,
+          "box": {
+            "x": 9.34,
+            "y": 5.88,
+            "w": 2.98,
+            "h": 0.44
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "文本框 7",
+          "group": "组合 18",
+          "chars": 44,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容。",
+          "runs": 2,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": null,
+          "box": {
+            "x": 1.04,
+            "y": 6.34,
+            "w": 3.37,
+            "h": 0.83
+          }
+        },
+        {
+          "shapeId": 9,
+          "name": "文本框 8",
+          "group": "组合 18",
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": null,
+          "box": {
+            "x": 1.04,
+            "y": 5.91,
+            "w": 3.1,
+            "h": 0.44
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "文本框 9",
+          "group": "组合 16",
+          "chars": 44,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容。",
+          "runs": 2,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": null,
+          "box": {
+            "x": 5.17,
+            "y": 6.31,
+            "w": 3.37,
+            "h": 0.83
+          }
+        },
+        {
+          "shapeId": 11,
+          "name": "文本框 10",
+          "group": "组合 16",
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": null,
+          "box": {
+            "x": 5.17,
+            "y": 5.88,
+            "w": 2.98,
+            "h": 0.44
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 28,
+          "name": "图片 27",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 13.33,
+            "h": 5.87
+          }
+        },
+        {
+          "shapeId": 36,
+          "name": "图片 35",
+          "box": {
+            "x": 10.41,
+            "y": -0.02,
+            "w": 2.62,
+            "h": 1.08
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 3,
+          "name": "直接连接符 2",
+          "box": {
+            "x": 0.48,
+            "y": 0.79,
+            "w": 12.34,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "role": "content-image",
+      "layout": "仅标题",
+      "shapeCount": 18,
+      "picCount": 4,
+      "totalChars": 170,
+      "texts": [
+        {
+          "shapeId": 3,
+          "name": "矩形 2",
+          "group": null,
+          "chars": 50,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 0.99,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "矩形 3",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": "accent1",
+          "box": {
+            "x": 0.99,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "矩形 4",
+          "group": null,
+          "chars": 2,
+          "text": "01",
+          "runs": 1,
+          "fontSize": 60,
+          "fontSizeAll": {
+            "60": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent1",
+          "box": {
+            "x": 0.99,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "矩形 5",
+          "group": null,
+          "chars": 50,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "bg1",
+          "box": {
+            "x": 5.2,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "矩形 6",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": "accent1",
+          "box": {
+            "x": 5.2,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "矩形 9",
+          "group": null,
+          "chars": 2,
+          "text": "02",
+          "runs": 1,
+          "fontSize": 60,
+          "fontSizeAll": {
+            "60": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent1",
+          "box": {
+            "x": 5.2,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          }
+        },
+        {
+          "shapeId": 11,
+          "name": "矩形 10",
+          "group": null,
+          "chars": 37,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 9.42,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          }
+        },
+        {
+          "shapeId": 12,
+          "name": "矩形 11",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": "accent1",
+          "box": {
+            "x": 9.42,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          }
+        },
+        {
+          "shapeId": 14,
+          "name": "矩形 13",
+          "group": null,
+          "chars": 2,
+          "text": "03",
+          "runs": 1,
+          "fontSize": 60,
+          "fontSizeAll": {
+            "60": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent1",
+          "box": {
+            "x": 9.42,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "文本框 7",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（图文排版）",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "1271BA",
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 30,
+          "name": "图片 29",
+          "box": {
+            "x": 0.99,
+            "y": 5.06,
+            "w": 3.15,
+            "h": 1.66
+          }
+        },
+        {
+          "shapeId": 31,
+          "name": "图片 30",
+          "box": {
+            "x": 5.2,
+            "y": 5.06,
+            "w": 3.15,
+            "h": 1.66
+          }
+        },
+        {
+          "shapeId": 32,
+          "name": "图片 31",
+          "box": {
+            "x": 9.42,
+            "y": 5.06,
+            "w": 3.15,
+            "h": 1.66
+          }
+        },
+        {
+          "shapeId": 36,
+          "name": "图片 35",
+          "box": {
+            "x": 10.41,
+            "y": 0.0,
+            "w": 2.62,
+            "h": 1.06
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 24,
+          "name": "直接连接符 23",
+          "box": {
+            "x": 0.76,
+            "y": 1.92,
+            "w": 0.0,
+            "h": 4.82
+          }
+        },
+        {
+          "shapeId": 25,
+          "name": "直接连接符 24",
+          "box": {
+            "x": 4.97,
+            "y": 1.92,
+            "w": 0.0,
+            "h": 4.82
+          }
+        },
+        {
+          "shapeId": 26,
+          "name": "直接连接符 25",
+          "box": {
+            "x": 9.19,
+            "y": 1.92,
+            "w": 0.0,
+            "h": 4.82
+          }
+        },
+        {
+          "shapeId": 9,
+          "name": "直接连接符 8",
+          "box": {
+            "x": 0.48,
+            "y": 0.79,
+            "w": 12.34,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "role": "content-image",
+      "layout": "仅标题",
+      "shapeCount": 29,
+      "picCount": 2,
+      "totalChars": 225,
+      "texts": [
+        {
+          "shapeId": 12,
+          "name": "文本框 10",
+          "group": null,
+          "chars": 57,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容，添加正文内容添加正文内容添加正文内容，添加正文内容",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "微软雅黑",
+          "color": "bg1",
+          "box": {
+            "x": 0.76,
+            "y": 2.01,
+            "w": 6.11,
+            "h": 0.79
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "文本框 12",
+          "group": null,
+          "chars": 25,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 1.6,
+            "y": 3.44,
+            "w": 2.84,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 14,
+          "name": "文本框 13",
+          "group": null,
+          "chars": 25,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 5.77,
+            "y": 3.44,
+            "w": 2.84,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 21,
+          "name": "文本框 20",
+          "group": null,
+          "chars": 25,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 1.6,
+            "y": 4.61,
+            "w": 2.84,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 23,
+          "name": "文本框 22",
+          "group": null,
+          "chars": 25,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 5.77,
+            "y": 4.61,
+            "w": 2.84,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 29,
+          "name": "文本框 28",
+          "group": null,
+          "chars": 25,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 1.6,
+            "y": 5.78,
+            "w": 2.84,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 30,
+          "name": "文本框 29",
+          "group": null,
+          "chars": 25,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "accent2",
+          "box": {
+            "x": 5.77,
+            "y": 5.78,
+            "w": 2.84,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "文本框 7",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（图文排版）",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "1271BA",
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          }
+        },
+        {
+          "shapeId": 36,
+          "name": "文本框 35",
+          "group": null,
+          "chars": 1,
+          "text": "1",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.04,
+            "y": 3.52,
+            "w": 0.4,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 37,
+          "name": "文本框 36",
+          "group": null,
+          "chars": 1,
+          "text": "2",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 5.18,
+            "y": 3.52,
+            "w": 0.42,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 38,
+          "name": "文本框 37",
+          "group": null,
+          "chars": 1,
+          "text": "3",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.04,
+            "y": 4.71,
+            "w": 0.4,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 39,
+          "name": "文本框 38",
+          "group": null,
+          "chars": 1,
+          "text": "5",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.05,
+            "y": 5.89,
+            "w": 0.4,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 40,
+          "name": "文本框 39",
+          "group": null,
+          "chars": 1,
+          "text": "4",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 5.18,
+            "y": 4.71,
+            "w": 0.42,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 41,
+          "name": "文本框 40",
+          "group": null,
+          "chars": 1,
+          "text": "6",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 5.19,
+            "y": 5.89,
+            "w": 0.38,
+            "h": 0.4
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 11,
+          "name": "图片 10",
+          "box": {
+            "x": 7.06,
+            "y": 0.0,
+            "w": 6.27,
+            "h": 7.5
+          }
+        },
+        {
+          "shapeId": 35,
+          "name": "图片 8",
+          "box": {
+            "x": 10.41,
+            "y": 0.0,
+            "w": 2.62,
+            "h": 1.06
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 9,
+          "name": "直接连接符 8",
+          "box": {
+            "x": 0.48,
+            "y": 0.79,
+            "w": 12.34,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "role": "content-image",
+      "layout": "空白",
+      "shapeCount": 22,
+      "picCount": 2,
+      "totalChars": 342,
+      "texts": [
+        {
+          "shapeId": 12,
+          "name": "圆角矩形 21",
+          "group": null,
+          "chars": 86,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容添加正文内",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent2",
+          "box": {
+            "x": 0.67,
+            "y": 1.42,
+            "w": 12.0,
+            "h": 1.05
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "矩形 13",
+          "group": null,
+          "chars": 2,
+          "text": "01",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent1",
+          "box": {
+            "x": 5.0,
+            "y": 3.06,
+            "w": 0.46,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "矩形 14",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent1",
+          "box": {
+            "x": 5.47,
+            "y": 3.03,
+            "w": 7.21,
+            "h": 0.32
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "矩形 15",
+          "group": null,
+          "chars": 57,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容，添加正文内容添加正文内容添加正文内容，添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "+mn-ea",
+          "color": "tx1",
+          "box": {
+            "x": 5.47,
+            "y": 3.34,
+            "w": 7.21,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "矩形 22",
+          "group": null,
+          "chars": 2,
+          "text": "03",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent3",
+          "box": {
+            "x": 5.0,
+            "y": 4.98,
+            "w": 0.46,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "矩形 23",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent3",
+          "box": {
+            "x": 5.47,
+            "y": 4.94,
+            "w": 7.21,
+            "h": 0.32
+          }
+        },
+        {
+          "shapeId": 20,
+          "name": "矩形 24",
+          "group": null,
+          "chars": 57,
+          "text": "添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "+mn-ea",
+          "color": "tx1",
+          "box": {
+            "x": 5.47,
+            "y": 5.26,
+            "w": 7.21,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 21,
+          "name": "矩形 16",
+          "group": null,
+          "chars": 2,
+          "text": "02",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent2",
+          "box": {
+            "x": 5.0,
+            "y": 4.02,
+            "w": 0.46,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 22,
+          "name": "矩形 17",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent2",
+          "box": {
+            "x": 5.47,
+            "y": 3.98,
+            "w": 7.21,
+            "h": 0.32
+          }
+        },
+        {
+          "shapeId": 27,
+          "name": "矩形 18",
+          "group": null,
+          "chars": 50,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "+mn-ea",
+          "color": "tx1",
+          "box": {
+            "x": 5.47,
+            "y": 4.3,
+            "w": 7.21,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 29,
+          "name": "矩形 8",
+          "group": null,
+          "chars": 2,
+          "text": "04",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent4",
+          "box": {
+            "x": 5.0,
+            "y": 5.94,
+            "w": 0.46,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 30,
+          "name": "矩形 9",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mn-ea",
+          "color": "accent4",
+          "box": {
+            "x": 5.47,
+            "y": 5.9,
+            "w": 7.21,
+            "h": 0.32
+          }
+        },
+        {
+          "shapeId": 31,
+          "name": "矩形 10",
+          "group": null,
+          "chars": 52,
+          "text": "添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容，添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "+mn-ea",
+          "color": "tx1",
+          "box": {
+            "x": 5.47,
+            "y": 6.21,
+            "w": 7.21,
+            "h": 0.62
+          }
+        },
+        {
+          "shapeId": 3,
+          "name": "小李PPT1",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（图文排版）",
+          "runs": 4,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 4
+          },
+          "font": "微软雅黑",
+          "color": "1875BC",
+          "box": {
+            "x": 0.4,
+            "y": 0.27,
+            "w": 4.87,
+            "h": 0.57
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 24,
+          "name": "图片 23",
+          "box": {
+            "x": 9.72,
+            "y": 4.29,
+            "w": 3.8,
+            "h": 3.8
+          }
+        },
+        {
+          "shapeId": 33,
+          "name": "图片 8",
+          "box": {
+            "x": 10.41,
+            "y": -0.01,
+            "w": 2.62,
+            "h": 1.08
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 9,
+          "name": "直接连接符 2",
+          "box": {
+            "x": 5.23,
+            "y": 3.44,
+            "w": 0.0,
+            "h": 0.51
+          }
+        },
+        {
+          "shapeId": 28,
+          "name": "直接连接符 25",
+          "box": {
+            "x": 5.23,
+            "y": 4.4,
+            "w": 0.0,
+            "h": 0.51
+          }
+        },
+        {
+          "shapeId": 32,
+          "name": "直接连接符 11",
+          "box": {
+            "x": 5.23,
+            "y": 5.36,
+            "w": 0.0,
+            "h": 0.51
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "直接连接符 3",
+          "box": {
+            "x": 0.54,
+            "y": 0.79,
+            "w": 12.37,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "role": "content-dense",
+      "layout": "仅标题",
+      "shapeCount": 18,
+      "picCount": 1,
+      "totalChars": 258,
+      "texts": [
+        {
+          "shapeId": 5,
+          "name": "正文",
+          "group": null,
+          "chars": 36,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.57,
+            "y": 2.38,
+            "w": 4.15,
+            "h": 0.75
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "标题",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": "bg1",
+          "box": {
+            "x": 1.57,
+            "y": 1.88,
+            "w": 4.15,
+            "h": 0.48
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "正文",
+          "group": null,
+          "chars": 36,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.57,
+            "y": 4.08,
+            "w": 4.15,
+            "h": 0.75
+          }
+        },
+        {
+          "shapeId": 9,
+          "name": "标题",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": "bg1",
+          "box": {
+            "x": 1.57,
+            "y": 3.59,
+            "w": 4.15,
+            "h": 0.48
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "正文",
+          "group": null,
+          "chars": 36,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.57,
+            "y": 5.79,
+            "w": 4.15,
+            "h": 0.75
+          }
+        },
+        {
+          "shapeId": 20,
+          "name": "标题",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": "bg1",
+          "box": {
+            "x": 1.57,
+            "y": 5.29,
+            "w": 4.15,
+            "h": 0.48
+          }
+        },
+        {
+          "shapeId": 21,
+          "name": "正文",
+          "group": null,
+          "chars": 36,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": null,
+          "color": "accent3",
+          "box": {
+            "x": 7.61,
+            "y": 2.38,
+            "w": 4.15,
+            "h": 0.75
+          }
+        },
+        {
+          "shapeId": 22,
+          "name": "标题",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": null,
+          "box": {
+            "x": 7.61,
+            "y": 1.88,
+            "w": 4.15,
+            "h": 0.48
+          }
+        },
+        {
+          "shapeId": 23,
+          "name": "正文",
+          "group": null,
+          "chars": 36,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": null,
+          "color": "accent3",
+          "box": {
+            "x": 7.61,
+            "y": 4.08,
+            "w": 4.15,
+            "h": 0.75
+          }
+        },
+        {
+          "shapeId": 24,
+          "name": "标题",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": null,
+          "box": {
+            "x": 7.61,
+            "y": 3.59,
+            "w": 4.15,
+            "h": 0.48
+          }
+        },
+        {
+          "shapeId": 25,
+          "name": "正文",
+          "group": null,
+          "chars": 36,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 1
+          },
+          "font": null,
+          "color": "accent3",
+          "box": {
+            "x": 7.61,
+            "y": 5.79,
+            "w": 4.15,
+            "h": 0.75
+          }
+        },
+        {
+          "shapeId": 27,
+          "name": "标题",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": "微软雅黑",
+          "color": null,
+          "box": {
+            "x": 7.61,
+            "y": 5.29,
+            "w": 4.15,
+            "h": 0.48
+          }
+        },
+        {
+          "shapeId": 50,
+          "name": "小李PPT1",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（文字排版）",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1271BA",
+          "box": {
+            "x": 0.4,
+            "y": 0.27,
+            "w": 4.91,
+            "h": 0.57
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 52,
+          "name": "图片 51",
+          "box": {
+            "x": 10.41,
+            "y": -0.02,
+            "w": 2.62,
+            "h": 1.08
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 51,
+          "name": "直接连接符 50",
+          "box": {
+            "x": 0.54,
+            "y": 0.79,
+            "w": 12.37,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "role": "content-image",
+      "layout": "空白",
+      "shapeCount": 14,
+      "picCount": 2,
+      "totalChars": 173,
+      "texts": [
+        {
+          "shapeId": 19,
+          "name": "文本框 18",
+          "group": null,
+          "chars": 53,
+          "text": "添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "tx1",
+          "box": {
+            "x": 7.13,
+            "y": 2.24,
+            "w": 5.01,
+            "h": 0.71
+          }
+        },
+        {
+          "shapeId": 20,
+          "name": "文本框",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": 20,
+          "fontSizeAll": {
+            "20": 3
+          },
+          "font": "微软雅黑",
+          "color": "accent1",
+          "box": {
+            "x": 7.63,
+            "y": 1.81,
+            "w": 1.85,
+            "h": 0.44
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "文本框 5",
+          "group": null,
+          "chars": 50,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容，添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "tx1",
+          "box": {
+            "x": 7.13,
+            "y": 4.07,
+            "w": 5.01,
+            "h": 0.71
+          }
+        },
+        {
+          "shapeId": 7,
+          "name": "文本框",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": 20,
+          "fontSizeAll": {
+            "20": 3
+          },
+          "font": "微软雅黑",
+          "color": "accent1",
+          "box": {
+            "x": 7.63,
+            "y": 3.63,
+            "w": 1.85,
+            "h": 0.44
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "文本框 9",
+          "group": null,
+          "chars": 43,
+          "text": "添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 1,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 1
+          },
+          "font": "微软雅黑",
+          "color": "tx1",
+          "box": {
+            "x": 7.13,
+            "y": 5.73,
+            "w": 5.01,
+            "h": 0.71
+          }
+        },
+        {
+          "shapeId": 11,
+          "name": "文本框",
+          "group": null,
+          "chars": 5,
+          "text": "添加小标题",
+          "runs": 3,
+          "fontSize": 20,
+          "fontSizeAll": {
+            "20": 3
+          },
+          "font": "微软雅黑",
+          "color": "accent1",
+          "box": {
+            "x": 7.63,
+            "y": 5.3,
+            "w": 1.85,
+            "h": 0.44
+          }
+        },
+        {
+          "shapeId": 41,
+          "name": "小李PPT1",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（文字排版）",
+          "runs": 1,
+          "fontSize": 28,
+          "fontSizeAll": {
+            "28": 1
+          },
+          "font": "微软雅黑",
+          "color": "1271BA",
+          "box": {
+            "x": 0.4,
+            "y": 0.27,
+            "w": 4.91,
+            "h": 0.57
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 5,
+          "name": "图片 4",
+          "box": {
+            "x": 10.41,
+            "y": -0.01,
+            "w": 2.62,
+            "h": 1.07
+          }
+        },
+        {
+          "shapeId": 24,
+          "name": "图片 23",
+          "box": {
+            "x": 9.72,
+            "y": 4.29,
+            "w": 3.8,
+            "h": 3.8
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 4,
+          "name": "直接连接符 3",
+          "box": {
+            "x": 0.54,
+            "y": 0.79,
+            "w": 12.37,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "role": "content-image",
+      "layout": "仅标题",
+      "shapeCount": 16,
+      "picCount": 2,
+      "totalChars": 151,
+      "texts": [
+        {
+          "shapeId": 410,
+          "name": "文本框 409",
+          "group": null,
+          "chars": 60,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容",
+          "runs": 2,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 2
+          },
+          "font": "+mn-ea",
+          "color": "accent2",
+          "box": {
+            "x": 0.79,
+            "y": 2.94,
+            "w": 5.16,
+            "h": 2.01
+          }
+        },
+        {
+          "shapeId": 8,
+          "name": "文本框 7",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题文字（图文排版）",
+          "runs": 1,
+          "fontSize": null,
+          "fontSizeAll": {},
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          }
+        },
+        {
+          "shapeId": 4,
+          "name": "文本框 3",
+          "group": null,
+          "chars": 67,
+          "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内",
+          "runs": 3,
+          "fontSize": 14,
+          "fontSizeAll": {
+            "14": 3
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.15,
+            "y": 1.3,
+            "w": 11.24,
+            "h": 1.04
+          }
+        },
+        {
+          "shapeId": 10,
+          "name": "文本框 9",
+          "group": null,
+          "chars": 3,
+          "text": "数据1",
+          "runs": 3,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 3
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 1.19,
+            "y": 5.55,
+            "w": 0.87,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 11,
+          "name": "文本框 10",
+          "group": null,
+          "chars": 3,
+          "text": "数据2",
+          "runs": 3,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 3
+          },
+          "font": null,
+          "color": "accent1",
+          "box": {
+            "x": 2.43,
+            "y": 5.55,
+            "w": 0.87,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 12,
+          "name": "文本框 11",
+          "group": null,
+          "chars": 3,
+          "text": "数据3",
+          "runs": 3,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 3
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 3.68,
+            "y": 5.55,
+            "w": 0.87,
+            "h": 0.3
+          }
+        },
+        {
+          "shapeId": 13,
+          "name": "文本框 12",
+          "group": null,
+          "chars": 3,
+          "text": "数据4",
+          "runs": 3,
+          "fontSize": 12,
+          "fontSizeAll": {
+            "12": 3
+          },
+          "font": null,
+          "color": "bg1",
+          "box": {
+            "x": 4.89,
+            "y": 5.56,
+            "w": 0.87,
+            "h": 0.3
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 5,
+          "name": "图片 4",
+          "box": {
+            "x": 6.76,
+            "y": 2.24,
+            "w": 5.39,
+            "h": 3.99
+          }
+        },
+        {
+          "shapeId": 2,
+          "name": "图片 1",
+          "box": {
+            "x": 10.19,
+            "y": -0.0,
+            "w": 2.87,
+            "h": 0.81
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 429,
+          "name": "直接连接符 428",
+          "box": {
+            "x": 1.16,
+            "y": 5.0,
+            "w": 4.6,
+            "h": 0.0
+          }
+        },
+        {
+          "shapeId": 442,
+          "name": "直接连接符 441",
+          "box": {
+            "x": 1.16,
+            "y": 6.41,
+            "w": 4.6,
+            "h": 0.0
+          }
+        },
+        {
+          "shapeId": 417,
+          "name": "直接连接符 416",
+          "box": {
+            "x": 1.19,
+            "y": 2.06,
+            "w": 0.65,
+            "h": 0.0
+          }
+        },
+        {
+          "shapeId": 9,
+          "name": "直接连接符 8",
+          "box": {
+            "x": 0.48,
+            "y": 0.79,
+            "w": 12.34,
+            "h": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "role": "end",
+      "layout": "空白",
+      "shapeCount": 10,
+      "picCount": 3,
+      "totalChars": 41,
+      "texts": [
+        {
+          "shapeId": 32,
+          "name": "文本框 31",
+          "group": null,
+          "chars": 3,
+          "text": "谢谢，",
+          "runs": 1,
+          "fontSize": 48,
+          "fontSizeAll": {
+            "48": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.66,
+            "y": 2.03,
+            "w": 2.2,
+            "h": 0.91
+          }
+        },
+        {
+          "shapeId": 33,
+          "name": "文本框 32",
+          "group": null,
+          "chars": 12,
+          "text": "添加标题描述添加标题描述",
+          "runs": 1,
+          "fontSize": 16,
+          "fontSizeAll": {
+            "16": 1
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.68,
+            "y": 3.83,
+            "w": 4.48,
+            "h": 0.37
+          }
+        },
+        {
+          "shapeId": 34,
+          "name": "文本框 33",
+          "group": null,
+          "chars": 7,
+          "text": "敬请批评指正！",
+          "runs": 2,
+          "fontSize": 48,
+          "fontSizeAll": {
+            "48": 2
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.66,
+            "y": 2.92,
+            "w": 4.87,
+            "h": 0.91
+          }
+        },
+        {
+          "shapeId": 2,
+          "name": "文本框 1",
+          "group": null,
+          "chars": 7,
+          "text": "汇报人：xxx",
+          "runs": 2,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 2
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 0.66,
+            "y": 5.61,
+            "w": 1.57,
+            "h": 0.4
+          }
+        },
+        {
+          "shapeId": 3,
+          "name": "文本框 2",
+          "group": null,
+          "chars": 12,
+          "text": "日期：xx年xx月xx日",
+          "runs": 7,
+          "fontSize": 18,
+          "fontSizeAll": {
+            "18": 7
+          },
+          "font": "+mj-lt",
+          "color": "white",
+          "box": {
+            "x": 2.54,
+            "y": 5.61,
+            "w": 2.45,
+            "h": 0.4
+          }
+        }
+      ],
+      "pics": [
+        {
+          "shapeId": 7,
+          "name": "图片 6",
+          "box": {
+            "x": 0.23,
+            "y": 0.0,
+            "w": 5.9,
+            "h": 7.5
+          }
+        },
+        {
+          "shapeId": 5,
+          "name": "图片 4",
+          "box": {
+            "x": 2.08,
+            "y": 0.0,
+            "w": 11.25,
+            "h": 7.5
+          }
+        },
+        {
+          "shapeId": 6,
+          "name": "图片 5",
+          "box": {
+            "x": 10.07,
+            "y": -0.02,
+            "w": 3.27,
+            "h": 1.24
+          }
+        }
+      ],
+      "lines": [
+        {
+          "shapeId": 4,
+          "name": "直接连接符 3",
+          "box": {
+            "x": 2.44,
+            "y": 5.7,
+            "w": 0.0,
+            "h": 0.22
+          }
+        }
+      ]
+    }
+  ],
+  "pollution": [
+    {
+      "slide": 1,
+      "shapeId": 33,
+      "kind": "模板示例文字",
+      "text": "添加标题描述添加标题描述"
+    },
+    {
+      "slide": 2,
+      "shapeId": 16,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 2,
+      "shapeId": 5,
+      "kind": "模板示例文字",
+      "text": "添加章节描述添加章节描述添加章节描述添加章节描述"
+    },
+    {
+      "slide": 3,
+      "shapeId": 16,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 3,
+      "shapeId": 5,
+      "kind": "模板示例文字",
+      "text": "添加章节描述添加章节描述添加章节描述添加章节描述"
+    },
+    {
+      "slide": 4,
+      "shapeId": 16,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 4,
+      "shapeId": 5,
+      "kind": "模板示例文字",
+      "text": "添加章节描述添加章节描述添加章节描述添加章节描述"
+    },
+    {
+      "slide": 5,
+      "shapeId": 20,
+      "kind": "模板示例文字",
+      "text": "添加章节描述"
+    },
+    {
+      "slide": 5,
+      "shapeId": 25,
+      "kind": "模板示例文字",
+      "text": "添加章节描述"
+    },
+    {
+      "slide": 5,
+      "shapeId": 28,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 5,
+      "shapeId": 29,
+      "kind": "模板示例文字",
+      "text": "添加章节描述"
+    },
+    {
+      "slide": 5,
+      "shapeId": 2,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 5,
+      "shapeId": 4,
+      "kind": "模板示例文字",
+      "text": "添加章节标题"
+    },
+    {
+      "slide": 6,
+      "shapeId": 12,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容。添加正文内容添加正文内容添加正文内容。添加正文内容添加"
+    },
+    {
+      "slide": 6,
+      "shapeId": 13,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 6,
+      "shapeId": 8,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正"
+    },
+    {
+      "slide": 6,
+      "shapeId": 9,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 6,
+      "shapeId": 10,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正"
+    },
+    {
+      "slide": 6,
+      "shapeId": 11,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 7,
+      "shapeId": 3,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加"
+    },
+    {
+      "slide": 7,
+      "shapeId": 4,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 7,
+      "shapeId": 6,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加"
+    },
+    {
+      "slide": 7,
+      "shapeId": 7,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 7,
+      "shapeId": 11,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 7,
+      "shapeId": 12,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 8,
+      "shapeId": 12,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容，添加正文内容添加"
+    },
+    {
+      "slide": 8,
+      "shapeId": 13,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容"
+    },
+    {
+      "slide": 8,
+      "shapeId": 14,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容"
+    },
+    {
+      "slide": 8,
+      "shapeId": 21,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容"
+    },
+    {
+      "slide": 8,
+      "shapeId": 23,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容"
+    },
+    {
+      "slide": 8,
+      "shapeId": 29,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容"
+    },
+    {
+      "slide": 8,
+      "shapeId": 30,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容"
+    },
+    {
+      "slide": 9,
+      "shapeId": 12,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正"
+    },
+    {
+      "slide": 9,
+      "shapeId": 7,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 9,
+      "shapeId": 8,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容，添加正文内容添加"
+    },
+    {
+      "slide": 9,
+      "shapeId": 13,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 9,
+      "shapeId": 20,
+      "kind": "模板示例文字",
+      "text": "添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加"
+    },
+    {
+      "slide": 9,
+      "shapeId": 22,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 9,
+      "shapeId": 27,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正"
+    },
+    {
+      "slide": 9,
+      "shapeId": 30,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 9,
+      "shapeId": 31,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添"
+    },
+    {
+      "slide": 10,
+      "shapeId": 5,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 10,
+      "shapeId": 6,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 10,
+      "shapeId": 8,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 10,
+      "shapeId": 9,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 10,
+      "shapeId": 10,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 10,
+      "shapeId": 20,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 10,
+      "shapeId": 21,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 10,
+      "shapeId": 22,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 10,
+      "shapeId": 23,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 10,
+      "shapeId": 24,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 10,
+      "shapeId": 25,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容"
+    },
+    {
+      "slide": 10,
+      "shapeId": 27,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 11,
+      "shapeId": 19,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正"
+    },
+    {
+      "slide": 11,
+      "shapeId": 20,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 11,
+      "shapeId": 6,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正"
+    },
+    {
+      "slide": 11,
+      "shapeId": 7,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 11,
+      "shapeId": 10,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正"
+    },
+    {
+      "slide": 11,
+      "shapeId": 11,
+      "kind": "模板示例文字",
+      "text": "添加小标题"
+    },
+    {
+      "slide": 12,
+      "shapeId": 410,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文"
+    },
+    {
+      "slide": 12,
+      "shapeId": 4,
+      "kind": "模板示例文字",
+      "text": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正"
+    },
+    {
+      "slide": 13,
+      "shapeId": 33,
+      "kind": "模板示例文字",
+      "text": "添加标题描述添加标题描述"
+    }
+  ],
+  "roleCoverage": {
+    "cover": true,
+    "toc": true,
+    "section": true,
+    "content": false,
+    "content-image": true,
+    "end": true
+  },
+  "missingRoles": [
+    "content"
+  ]
+}

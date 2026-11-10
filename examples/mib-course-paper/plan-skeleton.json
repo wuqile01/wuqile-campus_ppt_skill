@@ -1,0 +1,1300 @@
+{
+  "source": "examples/mib-course-paper/copy.md",
+  "template": "templates/【西财蓝1】演示文稿模板.pptx",
+  "pages": [
+    {
+      "page": 1,
+      "role": "cover",
+      "clone": 1,
+      "sampleRole": "cover",
+      "sampleInfo": {
+        "columns": 2,
+        "pics": 3,
+        "impliedItems": 1
+      },
+      "content": {
+        "title": "融资约束、供应链网络与中国企业 OFDI 区位选择",
+        "bullets": [],
+        "table": null,
+        "evidence": null,
+        "notes": "老师好，我是国际商务专业的邬起乐，汇报题目是《融资约束、供应链网络与中国企业对外直接投资的区位选择》。",
+        "seconds": 20
+      },
+      "slots": [
+        {
+          "shapeId": 32,
+          "kind": "title",
+          "chars": 6,
+          "box": {
+            "x": 0.66,
+            "y": 2.03,
+            "w": 4.2,
+            "h": 0.91
+          },
+          "sample": "西南财经大学"
+        },
+        {
+          "shapeId": 8,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 0.66,
+            "y": 1.35,
+            "w": 6.67,
+            "h": 0.84
+          },
+          "sample": "20XX年"
+        },
+        {
+          "shapeId": 34,
+          "kind": "cardBody",
+          "chars": 6,
+          "box": {
+            "x": 0.66,
+            "y": 2.92,
+            "w": 4.2,
+            "h": 0.91
+          },
+          "sample": "演示文稿模板"
+        },
+        {
+          "shapeId": 33,
+          "kind": "cardBody",
+          "chars": 12,
+          "box": {
+            "x": 0.68,
+            "y": 3.83,
+            "w": 4.48,
+            "h": 0.37
+          },
+          "sample": "添加标题描述添加标题描述"
+        },
+        {
+          "shapeId": 2,
+          "kind": "cardBody",
+          "chars": 7,
+          "box": {
+            "x": 0.66,
+            "y": 5.61,
+            "w": 1.57,
+            "h": 0.4
+          },
+          "sample": "汇报人：xxx"
+        },
+        {
+          "shapeId": 3,
+          "kind": "cardBody",
+          "chars": 12,
+          "box": {
+            "x": 2.54,
+            "y": 5.61,
+            "w": 2.45,
+            "h": 0.4
+          },
+          "sample": "日期：xx年xx月xx日"
+        }
+      ],
+      "warnings": [
+        "标题 25 字 > 样张容量 6 字 ×1.5，建议压缩标题"
+      ],
+      "texts": []
+    },
+    {
+      "page": 2,
+      "role": "toc",
+      "clone": 5,
+      "sampleRole": "toc",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 3,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": null,
+        "bullets": [
+          "01 研究问题",
+          "02 理论假说",
+          "03 研究设计"
+        ],
+        "table": null,
+        "evidence": null,
+        "notes": "汇报分三部分：先说明要解释的两个反常事实，再给出理论假说，最后介绍研究设计。",
+        "seconds": 10
+      },
+      "slots": [
+        {
+          "shapeId": 16,
+          "kind": "title",
+          "chars": 8,
+          "box": {
+            "x": -0.71,
+            "y": 0.57,
+            "w": 15.03,
+            "h": 3.05
+          },
+          "sample": "Contents"
+        },
+        {
+          "shapeId": 28,
+          "kind": "cardTitle",
+          "chars": 6,
+          "box": {
+            "x": 1.4,
+            "y": 5.56,
+            "w": 2.53,
+            "h": 0.57
+          },
+          "sample": "添加章节标题"
+        },
+        {
+          "shapeId": 29,
+          "kind": "cardBody",
+          "chars": 6,
+          "box": {
+            "x": 1.45,
+            "y": 6.24,
+            "w": 1.53,
+            "h": 0.37
+          },
+          "sample": "添加章节描述"
+        },
+        {
+          "shapeId": 2,
+          "kind": "cardTitle",
+          "chars": 6,
+          "box": {
+            "x": 5.37,
+            "y": 5.56,
+            "w": 2.53,
+            "h": 0.57
+          },
+          "sample": "添加章节标题"
+        },
+        {
+          "shapeId": 20,
+          "kind": "cardBody",
+          "chars": 6,
+          "box": {
+            "x": 5.37,
+            "y": 6.24,
+            "w": 1.53,
+            "h": 0.37
+          },
+          "sample": "添加章节描述"
+        },
+        {
+          "shapeId": 4,
+          "kind": "cardTitle",
+          "chars": 6,
+          "box": {
+            "x": 9.66,
+            "y": 5.56,
+            "w": 2.53,
+            "h": 0.57
+          },
+          "sample": "添加章节标题"
+        },
+        {
+          "shapeId": 25,
+          "kind": "cardBody",
+          "chars": 6,
+          "box": {
+            "x": 9.66,
+            "y": 6.24,
+            "w": 1.53,
+            "h": 0.37
+          },
+          "sample": "添加章节描述"
+        }
+      ],
+      "warnings": [],
+      "texts": []
+    },
+    {
+      "page": 3,
+      "role": "section",
+      "clone": 2,
+      "sampleRole": "section",
+      "sampleInfo": {
+        "columns": 1,
+        "pics": 1,
+        "impliedItems": 0
+      },
+      "content": {
+        "title": "研究问题",
+        "bullets": [],
+        "table": null,
+        "evidence": null,
+        "notes": "第一部分，研究问题。",
+        "seconds": 10
+      },
+      "slots": [
+        {
+          "shapeId": 16,
+          "kind": "title",
+          "chars": 6,
+          "box": {
+            "x": 4.15,
+            "y": 5.3,
+            "w": 5.03,
+            "h": 0.77
+          },
+          "sample": "添加章节标题"
+        },
+        {
+          "shapeId": 6,
+          "kind": "cardBody",
+          "chars": 2,
+          "box": {
+            "x": 3.52,
+            "y": 0.41,
+            "w": 6.3,
+            "h": 4.93
+          },
+          "sample": "01"
+        }
+      ],
+      "warnings": [],
+      "texts": []
+    },
+    {
+      "page": 4,
+      "role": "content",
+      "clone": 6,
+      "sampleRole": "content-image",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 2,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": "研究背景：两个待解释的特征事实",
+        "bullets": [
+          "特征事实一：2019 年中国 OFDI 存量约八成流向发展中经济体，仅约两成流向发达经济体",
+          "对照：同期美国 OFDI 仅约四分之一流向发展中经济体",
+          "特征事实二：企业常与国内供应链伙伴协同进入同一东道国，形成\"抱团出海\"",
+          "研究问题：融资约束是否扭曲区位选择？供应链网络能否缓解？"
+        ],
+        "table": null,
+        "evidence": "2019 年度中国对外直接投资统计公报；罗长远等（2024）",
+        "notes": "先给数据。中国企业八成投在发展中经济体，美国只有四分之一——说明中国企业进入的恰恰是固定成本更高、制度风险更大的市场，与传统理论预期相反。第二个事实是抱团出海。两个事实放在一起，就引出核心问题：融资约束是否在扭曲区位选择，供应链网络能否缓解。",
+        "seconds": 100
+      },
+      "slots": [
+        {
+          "shapeId": 2,
+          "kind": "title",
+          "chars": 12,
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          },
+          "sample": "添加标题文字（图文排版）"
+        },
+        {
+          "shapeId": 9,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 1.04,
+            "y": 5.91,
+            "w": 3.1,
+            "h": 0.44
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 8,
+          "kind": "cardBody",
+          "chars": 44,
+          "box": {
+            "x": 1.04,
+            "y": 6.34,
+            "w": 3.37,
+            "h": 0.83
+          },
+          "sample": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容。"
+        },
+        {
+          "shapeId": 11,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 5.17,
+            "y": 5.88,
+            "w": 2.98,
+            "h": 0.44
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 10,
+          "kind": "cardBody",
+          "chars": 44,
+          "box": {
+            "x": 5.17,
+            "y": 6.31,
+            "w": 3.37,
+            "h": 0.83
+          },
+          "sample": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容。"
+        },
+        {
+          "shapeId": 13,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 9.34,
+            "y": 5.88,
+            "w": 2.98,
+            "h": 0.44
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 12,
+          "kind": "cardBody",
+          "chars": 45,
+          "box": {
+            "x": 9.34,
+            "y": 6.31,
+            "w": 3.37,
+            "h": 0.83
+          },
+          "sample": "添加正文内容添加正文内容。添加正文内容添加正文内容添加正文内容。添加正文内容添加正文内容。"
+        }
+      ],
+      "warnings": [
+        "4 条内容 > 样张 3 个槽位：建议改表格页（content-table）、拆成两页，或换列数更多的样张；禁止合并"
+      ],
+      "texts": []
+    },
+    {
+      "page": 5,
+      "role": "content",
+      "clone": 7,
+      "sampleRole": "content-image",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 4,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": "理论假说：一个抑制因素 + 一个缓解机制",
+        "bullets": [
+          "H1 融资约束：显著抑制企业进入东道国的概率与规模，且在高固定成本、制度距离大的东道国更强",
+          "H2 供应链缓解：供应链网络越密集，融资约束对 OFDI 的负向影响越弱",
+          "H3 异质性：缓解效应在民营企业、小规模企业、弱市场环境东道国中更突出"
+        ],
+        "table": null,
+        "evidence": "异质性企业贸易理论（Melitz 2003；Helpman 等 2004）+\"融资门槛\"分析逻辑",
+        "notes": "关键是把融资约束理解为叠加在生产率门槛之上的第二道门槛：生产率够高，但筹不到沉没成本也进不去。所以 H1 是抑制且在高固定成本东道国更强。H2 是供应链网络通过信息传递与产销支撑降低固定成本、降低风险溢价，放松这道门槛。H3 是异质性。",
+        "seconds": 130
+      },
+      "slots": [
+        {
+          "shapeId": 8,
+          "kind": "title",
+          "chars": 12,
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          },
+          "sample": "添加标题文字（图文排版）"
+        },
+        {
+          "shapeId": 5,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 0.99,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "01"
+        },
+        {
+          "shapeId": 4,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 0.99,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 3,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 0.99,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 10,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 5.2,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "02"
+        },
+        {
+          "shapeId": 7,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 5.2,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 6,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 5.2,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 14,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 9.42,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "03"
+        },
+        {
+          "shapeId": 12,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 9.42,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 11,
+          "kind": "cardBody",
+          "chars": 37,
+          "box": {
+            "x": 9.42,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容"
+        }
+      ],
+      "warnings": [
+        "标题 20 字 > 样张容量 12 字 ×1.5，建议压缩标题"
+      ],
+      "texts": []
+    },
+    {
+      "page": 6,
+      "role": "content-table",
+      "clone": 7,
+      "sampleRole": "content-image",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 4,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": "数据：企业—东道国—年份三维面板",
+        "bullets": [
+          "企业层：商务部《境外投资企业（机构）名录》识别每家企业每年在各东道国设机构情况",
+          "财务层：CSMAR、中国工业企业数据库（构造融资约束与控制变量）",
+          "供应链：上市公司前五大供应商与客户披露、关联交易、行业投入产出关系",
+          "东道国层：ICRG、世界银行营商环境、WDI；引力变量来自 CEPII"
+        ],
+        "table": null,
+        "evidence": "六类数据源清单（对应论文 4.1 节）",
+        "notes": "这一页只讲数据来源，不讲模型。核心是三维面板：企业、东道国、年份。企业是否进入某东道国来自境外投资名录；融资约束来自 CSMAR 和工业企业库；供应链网络用前五大供应商客户披露加关联交易刻画；东道国制度环境用 ICRG。",
+        "seconds": 80
+      },
+      "slots": [
+        {
+          "shapeId": 8,
+          "kind": "title",
+          "chars": 12,
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          },
+          "sample": "添加标题文字（图文排版）"
+        },
+        {
+          "shapeId": 5,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 0.99,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "01"
+        },
+        {
+          "shapeId": 4,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 0.99,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 3,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 0.99,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 10,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 5.2,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "02"
+        },
+        {
+          "shapeId": 7,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 5.2,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 6,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 5.2,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 14,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 9.42,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "03"
+        },
+        {
+          "shapeId": 12,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 9.42,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 11,
+          "kind": "cardBody",
+          "chars": 37,
+          "box": {
+            "x": 9.42,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容"
+        }
+      ],
+      "warnings": [
+        "表格页：确认 removeShapes 已删掉全部装饰，保留标题栏与校徽"
+      ],
+      "texts": [],
+      "removeShapes": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        14,
+        24,
+        25,
+        26,
+        30,
+        31,
+        32,
+        36
+      ],
+      "addShapes": [
+        {
+          "kind": "table",
+          "x": 0.95,
+          "y": 1.35,
+          "w": 11.4,
+          "h": 4.4,
+          "fontPt": 16,
+          "data": [
+            [
+              "列1",
+              "列2",
+              "列3"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ]
+          ],
+          "note": "把 content.table 填进 data；colWidths/rowHeights 按内容长度调"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "role": "content",
+      "clone": 6,
+      "sampleRole": "content-image",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 2,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": "变量与模型：融资约束指数 + PPML 估计",
+        "bullets": [
+          "被解释变量：扩展边际（是否进入）与集约边际（投资存量/新增额）",
+          "核心解释变量：融资约束（SA/WW/KZ 指数 + 综合评分，交叉验证）",
+          "调节变量：供应链网络（伙伴在东道国设机构数量/占比）",
+          "模型：PPML，处理 OFDI 大量零值与异方差；含企业、东道国、年份固定效应"
+        ],
+        "table": null,
+        "evidence": "论文 4.2–4.3 节；借鉴阳佳余（2012）、罗长远等（2024）",
+        "notes": "被解释变量分两个边际：进不进入、进入多少。融资约束用三种成熟指数加综合评分交叉验证，避免单一指标测度误差。模型用 PPML，因为 OFDI 数据里大多数企业在大多数东道国没有投资，零值太多，取对数 OLS 会有偏。",
+        "seconds": 100
+      },
+      "slots": [
+        {
+          "shapeId": 2,
+          "kind": "title",
+          "chars": 12,
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          },
+          "sample": "添加标题文字（图文排版）"
+        },
+        {
+          "shapeId": 9,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 1.04,
+            "y": 5.91,
+            "w": 3.1,
+            "h": 0.44
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 8,
+          "kind": "cardBody",
+          "chars": 44,
+          "box": {
+            "x": 1.04,
+            "y": 6.34,
+            "w": 3.37,
+            "h": 0.83
+          },
+          "sample": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容。"
+        },
+        {
+          "shapeId": 11,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 5.17,
+            "y": 5.88,
+            "w": 2.98,
+            "h": 0.44
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 10,
+          "kind": "cardBody",
+          "chars": 44,
+          "box": {
+            "x": 5.17,
+            "y": 6.31,
+            "w": 3.37,
+            "h": 0.83
+          },
+          "sample": "添加正文内容添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容。"
+        },
+        {
+          "shapeId": 13,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 9.34,
+            "y": 5.88,
+            "w": 2.98,
+            "h": 0.44
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 12,
+          "kind": "cardBody",
+          "chars": 45,
+          "box": {
+            "x": 9.34,
+            "y": 6.31,
+            "w": 3.37,
+            "h": 0.83
+          },
+          "sample": "添加正文内容添加正文内容。添加正文内容添加正文内容添加正文内容。添加正文内容添加正文内容。"
+        }
+      ],
+      "warnings": [
+        "4 条内容 > 样张 3 个槽位：建议改表格页（content-table）、拆成两页，或换列数更多的样张；禁止合并",
+        "标题 22 字 > 样张容量 12 字 ×1.5，建议压缩标题"
+      ],
+      "texts": []
+    },
+    {
+      "page": 8,
+      "role": "content",
+      "clone": 7,
+      "sampleRole": "content-image",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 4,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": "识别策略：固定效应 + 工具变量 + 稳健性",
+        "bullets": [
+          "内生性来源：反向因果、遗漏变量、测度误差",
+          "处理一：企业/东道国/年份高维固定效应",
+          "处理二：工具变量（地区金融发展、银行业竞争、货币政策冲击下的外部融资依赖）",
+          "处理三：安慰剂检验、更换度量与估计方法、剔除避税港与金融地产"
+        ],
+        "table": null,
+        "evidence": "论文 5.1–5.2 节",
+        "notes": "老师最可能问\"内生性怎么办\"。三类问题：反向因果、遗漏变量、测度误差。对应三套处理：高维固定效应吸收不可观测异质性；工具变量处理反向因果，用地区金融发展和银行业竞争；再做安慰剂检验和多种稳健性。",
+        "seconds": 100
+      },
+      "slots": [
+        {
+          "shapeId": 8,
+          "kind": "title",
+          "chars": 12,
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          },
+          "sample": "添加标题文字（图文排版）"
+        },
+        {
+          "shapeId": 5,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 0.99,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "01"
+        },
+        {
+          "shapeId": 4,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 0.99,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 3,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 0.99,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 10,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 5.2,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "02"
+        },
+        {
+          "shapeId": 7,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 5.2,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 6,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 5.2,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 14,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 9.42,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "03"
+        },
+        {
+          "shapeId": 12,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 9.42,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 11,
+          "kind": "cardBody",
+          "chars": 37,
+          "box": {
+            "x": 9.42,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容"
+        }
+      ],
+      "warnings": [
+        "4 条内容 > 样张 3 个槽位：建议改表格页（content-table）、拆成两页，或换列数更多的样张；禁止合并",
+        "标题 22 字 > 样张容量 12 字 ×1.5，建议压缩标题"
+      ],
+      "texts": []
+    },
+    {
+      "page": 9,
+      "role": "content-table",
+      "clone": 7,
+      "sampleRole": "content-image",
+      "sampleInfo": {
+        "columns": 3,
+        "pics": 4,
+        "impliedItems": 3
+      },
+      "content": {
+        "title": "假说与预期结果（研究构想，尚待实证）",
+        "bullets": [],
+        "table": [
+          [
+            "假说",
+            "核心命题",
+            "预期检验方向"
+          ],
+          [
+            "H1",
+            "融资约束抑制 OFDI 区位选择",
+            "融资约束系数显著为负；弱市场环境子样本绝对值更大"
+          ],
+          [
+            "H2",
+            "供应链网络缓解上述抑制",
+            "融资约束 × 供应链网络 交互项显著为正"
+          ],
+          [
+            "H3",
+            "缓解效应存在异质性",
+            "民企 / 小企业 / 弱市场环境子样本中交互项更大"
+          ]
+        ],
+        "evidence": "注——本文为研究构想，表中为计划检验方向，尚无实证数据",
+        "notes": "这一页必须说清楚：本文是研究构想，表里是预期检验方向，不是我的实证结果。后续实证若与预期方向不一致，也会如实报告。",
+        "seconds": 80
+      },
+      "slots": [
+        {
+          "shapeId": 8,
+          "kind": "title",
+          "chars": 12,
+          "box": {
+            "x": 0.64,
+            "y": 0.21,
+            "w": 12.08,
+            "h": 0.57
+          },
+          "sample": "添加标题文字（图文排版）"
+        },
+        {
+          "shapeId": 5,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 0.99,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "01"
+        },
+        {
+          "shapeId": 4,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 0.99,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 3,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 0.99,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 10,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 5.2,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "02"
+        },
+        {
+          "shapeId": 7,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 5.2,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 6,
+          "kind": "cardBody",
+          "chars": 50,
+          "box": {
+            "x": 5.2,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容，添加正文内容添加正文内容"
+        },
+        {
+          "shapeId": 14,
+          "kind": "decor",
+          "chars": 2,
+          "box": {
+            "x": 9.42,
+            "y": 1.92,
+            "w": 1.45,
+            "h": 1.08
+          },
+          "sample": "03"
+        },
+        {
+          "shapeId": 12,
+          "kind": "cardTitle",
+          "chars": 5,
+          "box": {
+            "x": 9.42,
+            "y": 3.23,
+            "w": 3.15,
+            "h": 0.65
+          },
+          "sample": "添加小标题"
+        },
+        {
+          "shapeId": 11,
+          "kind": "cardBody",
+          "chars": 37,
+          "box": {
+            "x": 9.42,
+            "y": 3.97,
+            "w": 3.15,
+            "h": 0.96
+          },
+          "sample": "添加正文内容添加正文内容，添加正文内容添加正文内容添加正文内容添加正文内容"
+        }
+      ],
+      "warnings": [
+        "表格页：确认 removeShapes 已删掉全部装饰，保留标题栏与校徽"
+      ],
+      "texts": [],
+      "removeShapes": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        14,
+        24,
+        25,
+        26,
+        30,
+        31,
+        32,
+        36
+      ],
+      "addShapes": [
+        {
+          "kind": "table",
+          "x": 0.95,
+          "y": 1.35,
+          "w": 11.4,
+          "h": 4.4,
+          "fontPt": 16,
+          "data": [
+            [
+              "列1",
+              "列2",
+              "列3"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ]
+          ],
+          "note": "把 content.table 填进 data；colWidths/rowHeights 按内容长度调"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "role": "end",
+      "clone": 13,
+      "sampleRole": "end",
+      "sampleInfo": {
+        "columns": 2,
+        "pics": 3,
+        "impliedItems": 1
+      },
+      "content": {
+        "title": "恳请老师与同学批评指正",
+        "bullets": [],
+        "table": null,
+        "evidence": null,
+        "notes": "我的汇报到此结束，恳请老师和同学批评指正，谢谢。",
+        "seconds": 10
+      },
+      "slots": [
+        {
+          "shapeId": 32,
+          "kind": "title",
+          "chars": 3,
+          "box": {
+            "x": 0.66,
+            "y": 2.03,
+            "w": 2.2,
+            "h": 0.91
+          },
+          "sample": "谢谢，"
+        },
+        {
+          "shapeId": 34,
+          "kind": "cardTitle",
+          "chars": 7,
+          "box": {
+            "x": 0.66,
+            "y": 2.92,
+            "w": 4.87,
+            "h": 0.91
+          },
+          "sample": "敬请批评指正！"
+        },
+        {
+          "shapeId": 33,
+          "kind": "cardBody",
+          "chars": 12,
+          "box": {
+            "x": 0.68,
+            "y": 3.83,
+            "w": 4.48,
+            "h": 0.37
+          },
+          "sample": "添加标题描述添加标题描述"
+        },
+        {
+          "shapeId": 2,
+          "kind": "cardBody",
+          "chars": 7,
+          "box": {
+            "x": 0.66,
+            "y": 5.61,
+            "w": 1.57,
+            "h": 0.4
+          },
+          "sample": "汇报人：xxx"
+        },
+        {
+          "shapeId": 3,
+          "kind": "cardBody",
+          "chars": 12,
+          "box": {
+            "x": 2.54,
+            "y": 5.61,
+            "w": 2.45,
+            "h": 0.4
+          },
+          "sample": "日期：xx年xx月xx日"
+        }
+      ],
+      "warnings": [
+        "标题 11 字 > 样张容量 3 字 ×1.5，建议压缩标题"
+      ],
+      "texts": []
+    }
+  ]
+}
